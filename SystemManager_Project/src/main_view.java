@@ -11,7 +11,7 @@
 public class main_view {
     
     public static void main(String[] args) {
-       main_view.log("hello");
+       main_view.log("<html><b><u>T</u>wo</b><br>lines</html>");
     }
     
     public static String log(String message){
